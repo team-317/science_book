@@ -1,1 +1,6 @@
 pytorch_practice/data/
+*/__pycache__/
+pytorch_practice/temp_result.pth
+.ipynb_checkpoints/
+data/cifar-10-python.tar.gz
+.vscode/
